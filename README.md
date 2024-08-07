@@ -1,3 +1,7 @@
+# info 
+
+Branch para as atividades do capítulo Framework Front-End com Consumo de API
+
 # GameStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
