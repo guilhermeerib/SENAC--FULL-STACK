@@ -3,7 +3,9 @@ WORKDIR /app
 COPY . .
 RUN npm install
 # RUN npm run build
-CMD [ "ng","serve" ]
+# inicia o json-server junto
+CMD [ "npm","start" ]
+
 EXPOSE 80
 
 # FROM nginx:alpine
