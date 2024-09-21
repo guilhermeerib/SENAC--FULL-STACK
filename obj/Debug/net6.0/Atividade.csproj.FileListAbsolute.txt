@@ -1,0 +1,15 @@
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\bin\Debug\net6.0\Atividade.exe
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\bin\Debug\net6.0\Atividade.deps.json
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\bin\Debug\net6.0\Atividade.dll
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\bin\Debug\net6.0\Atividade.pdb
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.dll
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\refint\Atividade.dll
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.pdb
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+D:\GUILHERME\PROJETOS\SENAI\FULL STACK\codificacao_back_end\SP2 - Atividade 1\Atividade\obj\Debug\net6.0\ref\Atividade.dll
