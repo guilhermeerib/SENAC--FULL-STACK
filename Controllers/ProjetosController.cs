@@ -58,7 +58,7 @@ namespace Exo.WebApi.Controllers
             }
             catch (Exception e)
             {
-                return BadRequest();
+                return BadRequest(e);
             }
         }
 
